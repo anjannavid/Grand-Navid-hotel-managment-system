@@ -1,0 +1,38 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+
+# Logs and DB
+*.log
+hotel_db/
+HotelMS_Logs/
+HotelMS_Invoices/
+HotelMS_Backups/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Other
+.gemini/
+scratch/
+brain/
+
+apache-maven-3.9.6/
+maven_temp/
+maven.zip
